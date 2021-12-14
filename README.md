@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Marcus, nice to meet you!
+- 🌱 I’m currently learning CSS and HTML
